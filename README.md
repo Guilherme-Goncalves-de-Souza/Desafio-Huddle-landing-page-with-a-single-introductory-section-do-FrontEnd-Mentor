@@ -1,4 +1,4 @@
-## Huddle-landing-page-with-a-single-introductory-section
+## Huddle landing page with a single introductory section
 
 1° Landing page feito sozinho.
 
