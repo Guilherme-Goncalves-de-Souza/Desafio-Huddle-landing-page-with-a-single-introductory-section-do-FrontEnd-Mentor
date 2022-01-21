@@ -95,6 +95,8 @@ main {
 .texts > button:hover {
   color: white;
   background-color: hsl(300, 69%, 71%);
+  
+  cursor: pointer;
 }
 
 footer {
@@ -106,6 +108,10 @@ footer {
 
 footer > img {
   width: 30px;
+}
+
+footer > img:hover {
+  cursor: pointer;
 }
 
 /* Parte MOBILE */
